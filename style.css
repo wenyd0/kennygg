@@ -4,8 +4,17 @@ body {
     margin: 0;
     padding: 0;
 }
-.site wenyd.png{
-    align-items: center;
-    display: flex;
-    
+.botao-tiktok {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.botao-tiktok:hover {
+    background-color: white;
+    color: red;
 }
